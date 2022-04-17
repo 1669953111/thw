@@ -1,0 +1,15 @@
+{% extends "layout.heml" %}
+
+{% block content %}
+
+<h1>Fill Out This From</h1>
+
+<form action="/hello" method="POST">
+    A Greeting: <input type="text" name="greet">
+    <br/>
+    Your Name: <input type="text" name="name">
+    <br/>
+    <input type="submit">
+</form>
+
+{% endblock %}
