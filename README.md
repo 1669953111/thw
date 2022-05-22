@@ -1,2 +1,2 @@
 # lplthw
-Learn programing language the hard way.
+Zed A. Shaw的"笨办法"系列书籍的代码
